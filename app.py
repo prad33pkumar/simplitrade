@@ -3,8 +3,7 @@
 # WARNING: This version contains hardcoded credentials and is NOT secure for sharing.
 
 # Install required packages
-pip install streamlit NorenRestApiPy pyotp
-
+import streamlit as st
 
 from datetime import datetime
 import pyotp
