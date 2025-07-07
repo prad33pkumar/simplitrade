@@ -3,7 +3,7 @@
 # WARNING: This version contains hardcoded credentials and is NOT secure for sharing.
 
 # Install required packages
-!pip install NorenRestApiPy pyotp
+pip install NorenRestApiPy pyotp
 
 from datetime import datetime
 import pyotp
